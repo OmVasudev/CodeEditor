@@ -1,7 +1,5 @@
 # Code Editor
 
-![Code Editor Logo](link_to_your_logo_image.png)
-
 ## Overview
 
 Code Editor is a web-based application designed for developing frontend or UI components using HTML, CSS, and JavaScript. It provides a seamless environment where you can write code in these languages and instantly view the output in a dedicated preview window.
